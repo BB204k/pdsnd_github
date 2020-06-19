@@ -8,6 +8,8 @@ CITY_DATA = { 'chicago': 'chicago.csv',
 
 def get_filters():
     """
+    Refactoring update 1
+
     Asks user to specify a city, month, and day to analyze.
 
     Returns:
